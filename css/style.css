@@ -70,6 +70,16 @@ button {
 	-o-user-select: none;
 	user-select: none;
 }
+.top-section-breaker{
+    height: 8px;
+    width: 120px;
+    display: block;
+    background: #FAC81B;
+    position: absolute;
+    top: -50px;
+    left: 44.8%;
+}
+
 button.navbar-toggle {
 	background: #2b2b2b;
 	border: none;
