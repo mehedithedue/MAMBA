@@ -152,7 +152,7 @@ Home sections
 
 .home-section {
 	width: 100%;
-	padding: 90px 0px 150px 0px;
+	padding: 50px 0px 100px 0px;
 }
 
 /* --- heading --- */
@@ -331,6 +331,16 @@ Check Out Feature
 	font-weight: normal;
 	padding: 0.8em 0 0.5em;
 	transition: all 0.5s ease 0s;
+}
+
+.top-grids i {
+    height: 8px;
+    width: 120px;
+    display: block;
+    background: #FAC81B;
+    position: absolute;
+    top: -50px;
+    left: 44.8%;
 }
 
 .icon1,.icon2,.icon3,.icon4{
